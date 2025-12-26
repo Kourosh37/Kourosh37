@@ -39,8 +39,10 @@
 - Linux, Bash
 
 **Cloud & Hosting**
+- Cloudflare Workers
 - Vercel, Netlify  
 - AWS, Render, Railway
+
 
 **Mobile / Cross-platform**
 - React Native, Flutter (basic familiarity)
